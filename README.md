@@ -80,7 +80,7 @@ To simulate the project in Proteus, you need to add the HEX file to the Arduino 
 ### Video Demonstration
 Here is a video demonstrating the functionality of the Digital Lock System:
 
-![Digital Lock System](video.mp4)
+![Digital Lock System](https://drive.google.com/file/d/16o0qsDbw5fpSPnZaSbAQwQ8XHM9YYBgH/view?usp=sharing)
 
 
 ### Image
