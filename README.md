@@ -21,6 +21,8 @@ To run this project, the **Keypad library** must be installed in the Arduino IDE
 4. Find the library named **Keypad by Mark Stanley, Alexander Brevig** and click **Install**.
 5. Once installed, the library is ready to use.
 
+**Note**: The Keypad library is essential for this project. Without it, the code will not compile. Make sure to install it before proceeding.
+
 ---
 
 ### 2. **Compiling the Code and Extracting the HEX File**
@@ -70,5 +72,27 @@ To simulate the project in Proteus, you need to add the HEX file to the Arduino 
 - **Default Password**: Stored in an array.
 - **Stack**: Used to store user input.
 - **LCD Display**: Uses the LiquidCrystal library to show messages.
+
+---
+
+## Project Demonstration
+
+### Video Demonstration
+Here is a video demonstrating the functionality of the Digital Lock System:
+
+https://github.com/your-username/Digital-Lock-System/blob/main/video.mp4
+
+### Image
+Below is an image of the project setup:
+
+![Digital Lock System](image.png)
+
+---
+
+## How to Use
+1. Clone this repository to your local machine.
+2. Open the Arduino code in the `Arduino/` folder and upload it to your Arduino board.
+3. Open the Proteus simulation file in the `Proteus/` folder and load the HEX file into the Arduino microcontroller.
+4. Run the simulation and test the system.
 
 ---
